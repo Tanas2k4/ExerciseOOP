@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: BTB2, Configuration: Debug|AnyCPU ------
+1>D:\C#\BTVN\Buoi1\BTB2\Program.cs(24,18,24,18): error CS1513: } expected
+1>D:\C#\BTVN\Buoi1\BTB2\Program.cs(26,66,26,66): error CS1003: Syntax error, 'switch' expected
+1>D:\C#\BTVN\Buoi1\BTB2\Student.cs(31,27,31,28): error CS1001: Identifier expected
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

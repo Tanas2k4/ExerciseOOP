@@ -1,0 +1,7 @@
+D:\C#\BTVN\Buoi1\BTB2\obj\Debug\BTB2.csproj.AssemblyReference.cache
+D:\C#\BTVN\Buoi1\BTB2\obj\Debug\BTB2.csproj.CoreCompileInputs.cache
+D:\C#\BTVN\Buoi1\BTB2\bin\Debug\BTB2.exe.config
+D:\C#\BTVN\Buoi1\BTB2\bin\Debug\BTB2.exe
+D:\C#\BTVN\Buoi1\BTB2\bin\Debug\BTB2.pdb
+D:\C#\BTVN\Buoi1\BTB2\obj\Debug\BTB2.exe
+D:\C#\BTVN\Buoi1\BTB2\obj\Debug\BTB2.pdb
