@@ -1,0 +1,15 @@
+D:\C#\BTVN\Buoi1\Tan\bin\Debug\Tan.exe.config
+D:\C#\BTVN\Buoi1\Tan\bin\Debug\Tan.exe
+D:\C#\BTVN\Buoi1\Tan\bin\Debug\Tan.pdb
+D:\C#\BTVN\Buoi1\Tan\bin\Debug\EntityFramework.dll
+D:\C#\BTVN\Buoi1\Tan\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\BTVN\Buoi1\Tan\bin\Debug\EntityFramework.xml
+D:\C#\BTVN\Buoi1\Tan\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\BTVN\Buoi1\Tan\obj\Debug\Tan.csproj.AssemblyReference.cache
+D:\C#\BTVN\Buoi1\Tan\obj\Debug\Tan.Form1.resources
+D:\C#\BTVN\Buoi1\Tan\obj\Debug\Tan.Properties.Resources.resources
+D:\C#\BTVN\Buoi1\Tan\obj\Debug\Tan.csproj.GenerateResource.cache
+D:\C#\BTVN\Buoi1\Tan\obj\Debug\Tan.csproj.CoreCompileInputs.cache
+D:\C#\BTVN\Buoi1\Tan\obj\Debug\Tan.csproj.Up2Date
+D:\C#\BTVN\Buoi1\Tan\obj\Debug\Tan.exe
+D:\C#\BTVN\Buoi1\Tan\obj\Debug\Tan.pdb
